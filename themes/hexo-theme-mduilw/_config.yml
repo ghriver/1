@@ -60,3 +60,9 @@ sources_cdn:
   main_css: "https://cdn.jsdelivr.net/gh/186526/hexo-theme-mduilw@master/source/css/main.min.css"
   ## ~~感谢菠萝大佬提供的国内cdn（使用阿里云cdn~~
   ## jsd yyds
+
+twikoo:
+  enable: true
+  visitor: true
+  envId: https://twikoo-mirror.ghriver.top
+  # region: ap-guangzhou # 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
