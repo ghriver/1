@@ -1,9 +1,9 @@
 Card:
-  read: Read
+  read: 点我阅读
 Menu:
-  home: Home
-  darkmod_btn: Darkmod
-  archive: Archive
-  others: Others
-  pages: Pages
-  friends: Friends
+  home: 主页
+  darkmod_btn: 深色模式
+  archive: 存档
+  others: 我在哪里
+  pages: 页面
+  friends: 小伙伴们
