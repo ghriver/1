@@ -39,6 +39,7 @@ pjax_enable: true
 
 footer: 
   MoeICP:20240283
+  [MoeICP:20240283](https://icp.gov.moe/?keyword=20240283)
 ## Use Valine as comment system
 comment:
   enable: false
