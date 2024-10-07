@@ -4,7 +4,7 @@ version: 0.2
 favicon: https://cdn.jsdelivr.net/npm/theme-lx@0.3.9/source/favicon.ico
 color:
   primary: "blue"
-  accent: "green"
+  accent: "black"
 icon: https://cdn.jsdelivr.net/npm/theme-lx@0.3.9/source/favicon.ico
 avatar: https://cdn.jsdelivr.net/npm/theme-lx@0.3.9/source/images/avatar.jpeg
 fab:
