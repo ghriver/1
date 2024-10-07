@@ -38,7 +38,7 @@ drawer:
 pjax_enable: true
 
 footer: 
-  MoeICP:20240283
+  
 ## Use Valine as comment system
 comment:
   enable: false
