@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 ## This is Hexo-Theme-MDUI
 ## Author:186526(https://github.com/186526)
 version: 0.2
@@ -68,3 +78,22 @@ twikoo:
   visitor: true
   envId: https://twikoo-mirror.ghriver.top
   # region: ap-guangzhou # 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
+
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: live2d-widget-model-wanko
+  display:
+    position: right
+    width: 150
+    height: 300
+  mobile:
+    show: true
+  react:
+    opacity: 0.7
